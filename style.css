@@ -605,6 +605,11 @@ footer {
   color: white;
 }
 
+.footer__social--link,
+.footer__copyright img {
+  width: 70px;
+}
+
 /* 
 
   SHAPES
